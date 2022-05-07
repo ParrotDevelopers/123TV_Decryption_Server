@@ -1,0 +1,22 @@
+{
+  "name": "123tv_decryption_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "bash install.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParrotDevelopers/123TV_Decryption_Server.git"
+  },
+  "author": "ParrotDevelopers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ParrotDevelopers/123TV_Decryption_Server/issues"
+  },
+  "homepage": "https://github.com/ParrotDevelopers/123TV_Decryption_Server#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
